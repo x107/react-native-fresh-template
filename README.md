@@ -1,1 +1,26 @@
-# react-native-fresh-template
+# Packages
+
+```
+"@react-native-community/masked-view",
+"@react-navigation/bottom-tabs",
+"@react-navigation/native",
+"@react-navigation/stack",
+"axios",
+"lodash",
+"moment",
+"react-native-camera",
+"react-native-elements",
+"react-native-gesture-handler",
+"react-native-modalize",
+"react-native-qrcode-svg",
+"react-native-reanimated",
+"react-native-safe-area-context",
+"react-native-screens",
+"react-native-snap-carousel",
+"react-native-vector-icons",
+"react-redux",
+"redux",
+"redux-logger",
+"redux-persist",
+"redux-thunk",
+```
